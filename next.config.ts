@@ -19,9 +19,6 @@ const nextConfig: NextConfig = {
     buildActivity: true,
     buildActivityPosition: "bottom-right",
   },
-  future: {
-    webpack5: true,
-  },
 };
 
 export default nextConfig;
